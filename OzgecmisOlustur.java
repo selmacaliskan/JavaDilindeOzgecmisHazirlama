@@ -72,7 +72,7 @@ public class OzgecmisOlustur {
             document.add(new Paragraph("Ad Soyad: Selma Çalışkan", normalFont));
             document.add(new Paragraph("Doğum Tarihi: 23.12.2004", normalFont));
             document.add(new Paragraph("Telefon Numarası: 0111 111 11", normalFont));
-            document.add(new Paragraph("E-posta: selma.caliskan888@gmail.com", normalFont));
+            document.add(new Paragraph("E-posta: caliskan111@gmail.com", normalFont));
 
             System.out.println("Kisisel Bilgiler Eklendi");
 
