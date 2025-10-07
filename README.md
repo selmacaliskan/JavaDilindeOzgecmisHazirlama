@@ -1,30 +1,30 @@
-#Bu Proje Nedir?
+# Bu Proje Nedir?  
+Bu proje, arayüz kullanmadan kullanıcının temel ihtiyaçları doğrultusunda **özgeçmiş (CV) hazırlamak** için tasarlanmıştır.  
 
-Arayüz olmadan kullanıcının temel ihtiyaçları doğrultusunda bir özgeçmiş hazırlmak üzerine tasarlanmıştır.
-Programın sonucunda görebileceğiniz pdf ekte sunulmuştur istediğiniz şekilde kod kısmından düzenleme yapıp kullanabilirsiniz.
+Programın çıktısı olarak **PDF** dosyası elde edersiniz.  
+PDF içerisinde yer alan bilgiler kod kısmından kolayca düzenlenebilir.  
 
+## Projeyi Uygulamak İçin Yapılması Gerekenler  
 
-#Projeyi Uygulamak İçin Yapılması Gerekenler :
+1. **Yeni Proje Oluşturma**  
+   - Maven seçimini uygulayın.  
+   - Proje özelliklerini girin.  
+   - JDK sürümünü **8 ve üzeri** seçmeniz önerilir.  
 
-1- Yeni Proje oluşturun proje oluştururken aşağıdaki maddelere dikkat edin.
-  *Maven seçimi uygulayın
-  *Proje özelliklerini girin.
-  *JDK kısmını 8 ve üzeri seçmeniz daha uygundur.
+2. **pom.xml Dosyası Düzenleme**  
+   - `pom.xml` dosyasını açın.  
+   - Ekte verilen örneğe uygun şekilde düzenleyin.  
 
-2-pom.xml dosyasını açın.
-  *Ekte belirtilen şekilde olucak şekilde düzenleyin.
+3. **OzgecmisOlustur.java Dosyası Oluşturma**  
+   - `src/main/java` dizininde yeni bir **Java Class** oluşturun.  
+   - Class adını `OzgecmisOlustur.java` olarak belirleyin.  
+   - Ekte verilen `OzgecmisOlustur.java` içeriğini kopyalayıp yapıştırın.  
 
-3-OzgecmisOlustur.java dosyasını oluşturma.
-  *src dosyası içerisindeki main dosayında Java Class'ı oluşturun 
-  *Java Class'ına ekte belirtilen Ozgecmis.Olustur.java dosyanın içerisindeki kodları kopyalayıp yapıştırabilirsiniz.
+## Not  
+- Kod kısmında yer alan **isim, soyisim, iletişim bilgileri** gibi alanları dilediğiniz şekilde değiştirebilirsiniz.  
+- Kendi bilgilerinizi ekleyerek özgeçmişinizi kişiselleştirebilirsiniz.  
+- Proje çalıştırıldıktan sonra oluşturulan PDF dosyasının örneği ekte sunulmuştur.  
+- İhtiyaçlarınıza göre projeye ek iyileştirmeler yapabilirsiniz.  
 
-#Not:
-projenin kod kısmında isim-soyisim gibi değerler değiştirilebilir kodları Java Class üzerinde yazdıktan sonrsa istediğiniz kişisel bilgileri silip yerine istediğinizi yazabilirsiniz.
-Bu programı uyguladıktan sonra nasıl bir pdf dosyası göreceğiniz ile ilgili örnek bir pdf oluşturulmuştur ekte yer almaktadır.
-Projeye dair faydalı iyileştirmeler yapabilirsiniz.
-
-
-
-
-  
-
+---
+📄 **Örnek PDF**: Ekte sunulmuştur.  
