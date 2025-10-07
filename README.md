@@ -8,7 +8,7 @@ PDF içerisinde yer alan bilgiler kod kısmından kolayca düzenlenebilir.
 
 1. **Yeni Proje Oluşturma**  
    - Maven seçimini uygulayın.  
-   - Proje özelliklerini girin.  
+   - Proje özelliklerini girin (ismi,location bilgileri...=.
    - JDK sürümünü **8 ve üzeri** seçmeniz önerilir.  
 
 2. **pom.xml Dosyası Düzenleme**  
@@ -27,4 +27,4 @@ PDF içerisinde yer alan bilgiler kod kısmından kolayca düzenlenebilir.
 - İhtiyaçlarınıza göre projeye ek iyileştirmeler yapabilirsiniz.  
 
 ---
-📄 **Örnek PDF**: Ekte sunulmuştur.  
+📄 **Örnek PDF**: Ekte sunulmuştur ayrıca buradan da ulaşabilirsiniz:https://github.com/selmacaliskan/JavaDilindeOzgecmisHazirlama/blob/main/ozgecmis.pdf
