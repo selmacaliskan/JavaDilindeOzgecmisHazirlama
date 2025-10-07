@@ -1,4 +1,4 @@
-##Java Dilinde Ozgecmis Hazirlama Programı Nedir?  
+## Java Dilinde Ozgecmis Hazirlama Programı Nedir?  
 Amacımız, arayüz kullanmadan kullanıcının temel ihtiyaçları doğrultusunda **özgeçmiş (CV) hazırlamak** için tasarlanmıştır.  
 
 Programın çıktısı olarak **PDF** dosyası elde edersiniz.  
