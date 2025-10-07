@@ -147,7 +147,7 @@ public class OzgecmisOlustur {
             document.add(dillerBaslik);
 
             document.add(new Paragraph("İngilizce: Orta Seviye (B1)", normalFont));
-            document.add(new Paragraph("Almanca: Başlangıç (A1)"));
+            document.add(new Paragraph("Almanca: Başlangıç (A1)",normalFont));
 
             System.out.println("Diller eklendi.");
 
