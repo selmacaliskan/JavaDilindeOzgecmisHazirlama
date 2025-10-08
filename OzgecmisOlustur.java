@@ -117,10 +117,17 @@ public class OzgecmisOlustur {
             deneyimBaslik.setSpacingAfter(10);
             document.add(deneyimBaslik);
 
-            document.add(new Paragraph("Stajyer Yazılımcı | 2023 ( 3 ay )", normalFont));
+            document.add(new Paragraph("Stajyer Yazılımcı | 2022 ( 3 ay )", normalFont));
             document.add(new Paragraph("Turk Telekom", kucukFont));
             document.add(new Paragraph("Web uygulamaları geliştirme", kucukFont));
-            document.add(new Paragraph("Veritabanı işlemleri", kucukFont));
+
+            document.add(new Paragraph("Stajyer Yazılımcı | 2023 ( 2 ay )", normalFont));
+            document.add(new Paragraph("Vodofone Data Engineering",kucukFont));
+            document.add(new Paragraph("Veritabanı sistemlerini büyük veri altyapılarıyla entegrasyonunda görev alma.", kucukFont));
+
+            document.add(new Paragraph("Tam Zamanlı Çalışan | 2024)", normalFont));
+            document.add(new Paragraph("Turkcell Data Analyst ", normalFont));
+            document.add(new Paragraph("Veri tabanında tutulan verilerin analizi.", kucukFont));
 
             document.add(new Paragraph("\n"));
 
